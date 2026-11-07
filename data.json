@@ -1,0 +1,34 @@
+{
+    "Brian": {
+        "password": "123",
+        "grocery_list": {},
+        "income": [],
+        "expenses": [],
+        "overall_budget": 0,
+        "budgets": {
+            "Food & Drinks": 0,
+            "Entertainment": 0,
+            "Shops": 0,
+            "Rent": 0,
+            "Utility": 0,
+            "Others": 0
+        },
+        "meal_plan": ""
+    },
+    "justin": {
+        "password": "123",
+        "grocery_list": {},
+        "income": [],
+        "expenses": [],
+        "overall_budget": 0,
+        "budgets": {
+            "Food & Drinks": 0,
+            "Entertainment": 0,
+            "Shops": 0,
+            "Rent": 0,
+            "Utility": 0,
+            "Others": 0
+        },
+        "meal_plan": ""
+    }
+}
